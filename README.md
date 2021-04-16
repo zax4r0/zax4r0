@@ -35,7 +35,7 @@ My name is zax4r0
  
 ## &#x1f4c8; GitHub Stats
 ![zax4r0's GitHub stats](https://repo-staes.vercel.app/api?username=zax4r0&show_icons=true&theme=tokyonight&count_private=true)
-[![Top Langs](https://repo-staes.vercel.app/api/top-langs/?username=zax4r0&layout=compact&theme=tokyonight&langs_count=8)](https://github.com/zax4r0/github-readme-stats)
+[![Top Langs](https://repo-staes.vercel.app/api/top-langs/?username=zax4r0&layout=compact&theme=tokyonight&langs_count=8ount_private=true)](https://github.com/zax4r0/github-readme-stats)
 <!-- links to social media icons
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="500" height="320" />  -->
