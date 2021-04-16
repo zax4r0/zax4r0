@@ -6,9 +6,9 @@ My name is zax4r0
 😜Ask me about anything, I am happy to help. 
 - <!-- links to your social media accounts -->
 [![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/zax4r0)
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://t.me/zax4r0)
-[![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://t.me/zax4r0)
-[![](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://t.me/zax4r0)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zax4r-0-957b6520b/)
+[![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC30sAkZbgtshKrKOAEvBwDw)
+[![](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/zax4r0)
 [![](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/zax4r0)
 [![](https://img.shields.io/badge/zax4r0.web.app-0A0A0A?style=for-the-badge&logo=zax4r0.web.app&logoColor=white)](https://zax4r0.web.app/)
 ## 🔧 Technologies & Tools
