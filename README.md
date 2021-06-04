@@ -11,7 +11,7 @@ My name is zax4r0
 [![](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/zax4r0)
 [![](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/zax4r0)
 [![](https://img.shields.io/badge/zax4r0.web.app-0A0A0A?style=for-the-badge&logo=zax4r0.web.app&logoColor=white)](https://zax4r0.web.app/)
-## 🔧 Technologies & Tools
+## 🔧 Technologies & Tools I Use LOL
 ![OS](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 
 ![HTML%](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
