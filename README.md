@@ -55,14 +55,18 @@ Skills:
 
 - How to reach me:
 
-<a herf="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=zax4r0@gmail.com" target="_blank"> <img src="https://img.icons8.com/nolan/40/gmail.png"/></a>
-<a herf="https://twitter.com/zax4r0" target="_blank"> <img src="https://img.icons8.com/nolan/40/twitter.png"/></a>
-<a herf="https://www.instagram.com/zax4r0/" target="_blank"> <img src="https://img.icons8.com/nolan/40/instagram-new.png"/></a>
-<a herf="https://www.linkedin.com/in/zax4r-0-957b6520b/" target="_blank"> <img src="https://img.icons8.com/nolan/40/linkedin.png"/></a>
-<a herf="" target="_blank"> <img src="https://img.icons8.com/nolan/40/gitlab.png"/></a>
-<a herf="https://www.reddit.com/user/zax4r0" target="_blank"> <img src="https://img.icons8.com/nolan/40/reddit.png"/></a>
-<a herf="https://www.youtube.com/channel/UC30sAkZbgtshKrKOAEvBwDw" target="_blank"> <img src="https://img.icons8.com/nolan/40/youtube-play.png"/></a>
-<a herf="https://t.me/zax4r0" target="_blank"> <img src="https://img.icons8.com/nolan/40/telegram-app.png"/></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=zax4r0@gmail.com" target="_blank"> <img src="https://img.icons8.com/nolan/40/gmail.png" alt="python" width="40" height="40"/>
+</a>
+<a href="https://twitter.com/zax4r0" target="_blank"> <img src="https://img.icons8.com/nolan/40/twitter.png" alt="python" width="40" height="40"/>
+</a>
+<a href="https://www.instagram.com/zax4r0/" target="_blank"> <img src="https://img.icons8.com/nolan/40/instagram-new.png" alt="python" width="40" height="40"/>
+</a>
+<a href="https://www.linkedin.com/in/zax4r-0-957b6520b/" target="_blank"> <img src="https://img.icons8.com/nolan/40/linkedin.png" alt="python" width="40" height="40"/>
+</a>
+<a href="https://www.reddit.com/user/zax4r0" target="_blank"> <img src="https://img.icons8.com/nolan/40/reddit.png" alt="python" width="40" height="40"/>
+</a>
+<a href="https://www.youtube.com/channel/UC30sAkZbgtshKrKOAEvBwDw" target="_blank"> <img src="https://img.icons8.com/nolan/40/youtube-play.png" alt="python" width="40" height="40"/>
+</a>
 
 ![zax4r0's GitHub stats](https://repo-staes.vercel.app/api?username=zax4r0&show_icons=true&theme=tokyonight&count_private=true)
 [![Top Langs](https://repo-staes.vercel.app/api/top-langs/?username=zax4r0&layout=compact&theme=tokyonight&langs_count=8ount_private=true)](https://github.com/zax4r0/github-readme-stats)
