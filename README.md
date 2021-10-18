@@ -68,8 +68,9 @@ Skills:
 <a href="https://www.youtube.com/channel/UC30sAkZbgtshKrKOAEvBwDw" target="_blank"> <img src="https://img.icons8.com/nolan/40/youtube-play.png" alt="python" width="40" height="40"/>
 </a>
 
-![zax4r0's GitHub stats](https://repo-staes-mm1w674vx-zax4r0.vercel.app/api?username=zax4r0&show_icons=true&theme=tokyonight&count_private=true)
-[![Top Langs](https://repo-staes-mm1w674vx-zax4r0.vercel.app/api/top-langs/?username=zax4r0&layout=compact&theme=tokyonight&langs_count=8ount_private=true)](https://github.com/zax4r0/github-readme-stats)
+<!-- ![zax4r0's GitHub stats](https://repo-staes-mm1w674vx-zax4r0.vercel.app/api?username=zax4r0&show_icons=true&theme=tokyonight&count_private=true)
+[![Top Langs](https://repo-staes-mm1w674vx-zax4r0.vercel.app/api/top-langs/?username=zax4r0&layout=compact&theme=tokyonight&langs_count=8ount_private=true)](https://github.com/zax4r0/github-readme-stats) -->
+![zax4r0's GitHub stats](https://github-readme-stats.vercel.app/api?username=zax4r0&show_icons=true&theme=tokyonight&count_private=true)
 
 <!-- Resources -->
 
