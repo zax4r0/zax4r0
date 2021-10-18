@@ -71,7 +71,7 @@ Skills:
 <!-- ![zax4r0's GitHub stats](https://repo-staes-mm1w674vx-zax4r0.vercel.app/api?username=zax4r0&show_icons=true&theme=tokyonight&count_private=true)
 [![Top Langs](https://repo-staes-mm1w674vx-zax4r0.vercel.app/api/top-langs/?username=zax4r0&layout=compact&theme=tokyonight&langs_count=8ount_private=true)](https://github.com/zax4r0/github-readme-stats) -->
 ![zax4r0's GitHub stats](https://github-readme-stats.vercel.app/api?username=zax4r0&show_icons=true&theme=tokyonight&count_private=true)
-
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zax4r0&layout=compact&theme=tokyonight&langs_count=8ount_private=true)](https://github.com/zax4r0/github-readme-stats)
 <!-- Resources -->
 
 <!--https://github.com/alexandresanlim/Badges4-README.md-Profile--!>
