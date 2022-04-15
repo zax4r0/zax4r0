@@ -61,7 +61,7 @@ Skills:
 </a>
 <a href="https://www.instagram.com/zax4r0/" target="_blank"> <img src="https://img.icons8.com/nolan/40/instagram-new.png" alt="python" width="40" height="40"/>
 </a>
-<a href="https://www.linkedin.com/in/zax4r-0-957b6520b/" target="_blank"> <img src="https://img.icons8.com/nolan/40/linkedin.png" alt="python" width="40" height="40"/>
+<a href="https://www.linkedin.com/in/vishwashegde4" target="_blank"> <img src="https://img.icons8.com/nolan/40/linkedin.png" alt="python" width="40" height="40"/>
 </a>
 <a href="https://www.reddit.com/user/zax4r0" target="_blank"> <img src="https://img.icons8.com/nolan/40/reddit.png" alt="python" width="40" height="40"/>
 </a>
