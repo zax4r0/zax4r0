@@ -1,4 +1,4 @@
-<img align="right" src="me2.png" />
+<!-- <img align="right" src="me2.png" /> -->
 <!-- FONTS -->
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
