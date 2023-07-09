@@ -59,7 +59,7 @@ Skills:
 </a>
 <a href="https://twitter.com/zax4r0" target="_blank"> <img src="https://img.icons8.com/nolan/40/twitter.png" alt="python" width="40" height="40"/>
 </a>
-<a href="https://www.instagram.com/zax4r0/" target="_blank"> <img src="https://img.icons8.com/nolan/40/instagram-new.png" alt="python" width="40" height="40"/>
+<a href="https://www.instagram.com/zax4r0/" target="_blank"> <img src="https://img.icons8.com/nolan/40/instagram-new.png" alt="python" width="40" height="40"/
 </a>
 <a href="https://www.linkedin.com/in/vishwashegde4" target="_blank"> <img src="https://img.icons8.com/nolan/40/linkedin.png" alt="python" width="40" height="40"/>
 </a>
@@ -70,8 +70,9 @@ Skills:
 
 <!-- ![zax4r0's GitHub stats](https://repo-staes-mm1w674vx-zax4r0.vercel.app/api?username=zax4r0&show_icons=true&theme=tokyonight&count_private=true)
 [![Top Langs](https://repo-staes-mm1w674vx-zax4r0.vercel.app/api/top-langs/?username=zax4r0&layout=compact&theme=tokyonight&langs_count=8ount_private=true)](https://github.com/zax4r0/github-readme-stats) -->
+Private contribution is not included BTW 😕
 ![zax4r0's GitHub stats](https://github-readme-stats.vercel.app/api?username=zax4r0&show_icons=true&theme=tokyonight&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zax4r0&layout=compact&theme=tokyonight&langs_count=8ount_private=true)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zax4r0&layout=compact&theme=tokyonight&langs_private=true)]
 <!-- Resources -->
 
 <!--https://github.com/alexandresanlim/Badges4-README.md-Profile--!>
