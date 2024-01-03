@@ -49,7 +49,6 @@ Skills:
 - Currently learning [flutter](https://flutter.dev/)
 - Looking for help with Flutter and nodejs Rest api
 - Ask me about anything,Im happy to help.
-- Pronouns: He/Him
 
 ---
 
