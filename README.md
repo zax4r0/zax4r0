@@ -96,7 +96,7 @@ How to reach me:
 [![Top Langs](https://repo-staes-mm1w674vx-zax4r0.vercel.app/api/top-langs/?username=zax4r0&layout=compact&theme=tokyonight&langs_count=8ount_private=true&hide=css)](https://github.com/zax4r0/github-readme-stats) -->
 
 ![zax4r0's GitHub stats](https://github-readme-stats-eosin-eight-55.vercel.app/api?username=zax4r0&theme=highcontrast&count_private=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats-eosin-eight-55.vercel.app/api/top-langs/?username=zax4r0&layout=compact&theme=highcontrast&langs_private=true&include_all_commits=true)]
+![Top Langs](https://github-readme-stats-eosin-eight-55.vercel.app/api/top-langs/?username=zax4r0&layout=compact&theme=highcontrast&langs_private=true&include_all_commits=true&hide=css)]
 
 
 ### ✍️ Random Dev Quote
