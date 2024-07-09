@@ -95,7 +95,7 @@ How to reach me:
 ![Top Langs](https://github-readme-stats-eosin-eight-55.vercel.app/api/top-langs/?username=zax4r0&layout=donut&theme=highcontrast&langs_private=true&include_all_commits=true&hide=css&size_weight=0.5&count_weight=0.5&langs_count=100\&title_color=fff\&icon_color=79ff97\&text_color=9f9f9f\&bg_color=151515)
 
 
-![Harlok's WakaTime stats](https://github-readme-stats-eosin-eight-55.vercel.app/api/wakatime?username=@zax4r0&theme=highcontrast&border_color=2e4058&\&title_color=fff\&icon_color=79ff97\&text_color=9f9f9f\&bg_color=151515)
+![Harlok's WakaTime stats](https://github-readme-stats-eosin-eight-55.vercel.app/api/wakatime?username=@zax4r0&theme=highcontrast&border_color=2e4058&\&title_color=fff\&icon_color=79ff97\&text_color=9f9f9f\&bg_color=151515&v=2)
 
 
 <a href="https://github.com/zax4r0/wind-components-vue">
