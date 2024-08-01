@@ -8,7 +8,6 @@
 - Currently Learning [Flutter](https://flutter.dev/) | [Python](https://www.python.org/) | [C](https://www.learn-c.org/)
 - Looking for help with Android application development (Flutter, Kotlin, React Native)
 - Ask me about anything, I'm happy to help.
-- I am a Technology Independent Developer,
 - My resume
   - [Download PDF](https://drive.google.com/file/d/1EXqZGYm2tcFH8la4ADOhlYIO-FTqsGnI/view?usp=sharing)
   - [Preview Online](https://gist.github.com/zax4r0/72e880ce601e7895db402eef377934db)
