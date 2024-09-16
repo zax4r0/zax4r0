@@ -62,7 +62,7 @@
   </tr>
 </table>
 
-[![GitHub Streak](https://github-readme-streak-stats-five-wheat.vercel.app?user=zax4r0&theme=whatsapp-dark2&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-five-wheat.vercel.app?user=zax4r0&theme=dark&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 </div>
 
 ## <img src="https://media.giphy.com/media/ZkoseoSVGIBmXTnWq8/giphy.gif" width="80" title="Let's Connect"><b>Let's Connect..!</b>
