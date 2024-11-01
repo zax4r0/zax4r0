@@ -1,15 +1,14 @@
-
 <h1 align="center"><b>Hello, folks! It's zax 😃</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" title="Hello"></h1>
 
-## <picture><img src="https://media.giphy.com/media/RqXiytZsYiwniqQc4b/giphy.gif" width="38" title="About me"></picture> **About me**
+## <picture><img src="https://media.giphy.com/media/RqXiytZsYiwniqQc4b/giphy.gif" width="38" title="About me"></picture> **About Me**
 
 <picture> <img align="right" src="https://media.giphy.com/media/E3cAxPU82HUZrZ2nGG/giphy.gif" width="250px" title="Developer"></picture>
 
-- Self taught developer
-- Currently Learning [Flutter](https://flutter.dev/) | [Python](https://www.python.org/) | [C](https://www.learn-c.org/)
-- Looking for help with Android application development (Flutter, Kotlin, React Native)
-- Ask me about anything, I'm happy to help.
-- My resume
+- Self-taught developer
+- Currently learning [Flutter](https://flutter.dev/), [Python](https://www.python.org/), and [C](https://www.learn-c.org/)
+- Seeking help with Android application development (Flutter, Kotlin, React Native)
+- Feel free to ask me anything—I'm happy to help.
+- My Resume
   - [Download PDF](https://drive.google.com/file/d/1EXqZGYm2tcFH8la4ADOhlYIO-FTqsGnI/view?usp=sharing)
   - [Preview Online](https://gist.github.com/zax4r0/72e880ce601e7895db402eef377934db)
 
@@ -48,7 +47,7 @@
   </tr>
 </table>
 
-## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="35" title="GitHub Stats"><b> Github Stats </b>
+## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="35" title="GitHub Stats"><b> GitHub Stats </b>
 
 <div align="center">
 <table>
@@ -65,7 +64,7 @@
 [![GitHub Streak](https://github-readme-streak-stats-five-wheat.vercel.app?user=zax4r0&theme=dark&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 </div>
 
-## <img src="https://media.giphy.com/media/ZkoseoSVGIBmXTnWq8/giphy.gif" width="80" title="Let's Connect"><b>Let's Connect..!</b>
+## <img src="https://media.giphy.com/media/ZkoseoSVGIBmXTnWq8/giphy.gif" width="80" title="Let's Connect"><b>Let's Connect!</b>
 
 <div align="center">
 <table>
